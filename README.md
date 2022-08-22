@@ -6,13 +6,13 @@ Assigniment for a Intership opportunity.
 
 - Get the SQL files from `/project/Databse/` 
 
-<+> Import into your MySQL Workbench or whichever Framwork You are using (Exported from MYSQL Workbench)
+- Import into your MySQL Workbench or whichever Framwork You are using (Exported from MYSQL Workbench)
 
-<+> The Tables have a predefined Schema named `techwondoe`.
+- The Tables have a predefined Schema named `techwondoe`.
 
-<+> There should be 2 tables one for the reviews content named `reviews`  and other for jwt and auth named `users` 
+- There should be 2 tables one for the reviews content named `reviews`  and other for jwt and auth named `users` 
 
-<+> Set the Schema to Default Scehma
+- Set the Schema to Default Scehma
 
 ## Deploy and Run the Service
 
@@ -20,11 +20,11 @@ Assigniment for a Intership opportunity.
 
 #### You can Deploy the Service localy manully using `.env` Enviromnetal variables (RECOMMENDED)
 
-<+> Locate to the Directory `/project/server` Where the Backend Server Application is situated
+- Locate to the Directory `/project/server` Where the Backend Server Application is situated
 
-<+> Run the commnad `npm install` to get all the required dependency in order for the application to run. 
+- Run the commnad `npm install` to get all the required dependency in order for the application to run. 
 
-<+> Here create a file named `.env` in the root server folder (`/project/server`)
+- Here create a file named `.env` in the root server folder (`/project/server`)
 
 ![env](https://user-images.githubusercontent.com/84328880/185962545-4be96c8b-afee-4874-aa00-0f541802a8b6.PNG)
 
@@ -42,7 +42,7 @@ DATABASE = techwondo
 # jwt
 SECRET = TRa4sdYR21ES
 ```
-<+> Run the Command `npm run dev` for the Application to run in typescript and use nodemon (The Development enviorment)
+- Run the Command `npm run dev` for the Application to run in typescript and use nodemon (The Development enviorment)
 
 #### OR
 
@@ -57,10 +57,10 @@ SECRET = TRa4sdYR21ES
 
 ### React
 
-<+> Locate to the Directory `/project/client` Where the Frontend Client Application is situated
+- Locate to the Directory `/project/client` Where the Frontend Client Application is situated
 
-<+> Run the commnad `npm install` to get all the required dependency in order for the application to run.
+- Run the commnad `npm install` to get all the required dependency in order for the application to run.
 
-<+> Run the Command `npm start` to Start the React Application 
+- Run the Command `npm start` to Start the React Application 
 
 
