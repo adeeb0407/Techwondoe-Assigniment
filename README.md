@@ -55,7 +55,7 @@ SECRET = TRa4sdYR21ES
 
 #### You can use the Docker Configurations and make an image and container of the Service on your respective Docker Hub/ Docker Destop App
 
-### React
+## Client
 
 - Locate to the Directory `/project/client` Where the Frontend Client Application is situated
 
