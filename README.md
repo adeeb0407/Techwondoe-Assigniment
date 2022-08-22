@@ -29,6 +29,7 @@ Assigniment for a Intership opportunity.
 <+> The Content fpr the `.env` file will be
 
 ```
+# Msql-DB
 PORT = 8001
 HOST = {YOUR_MSQL_HOST_DB} - (localhost for local enviorment)
 DB_PORT = 3306
@@ -36,7 +37,7 @@ USER = {YOUR_MYSQL_USERNAME}
 PASSWORD = {YOUR_MYSQL_PASSWORD}
 DATABASE = techwondo
 
-//JWT
+# jwt
 SECRET = TRa4sdYR21ES
 ```
 
