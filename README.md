@@ -2,9 +2,7 @@
 
 Assigniment for a Intership opportunity.
 
-## Deploy and Run the Service
-
-### Database Import
+## Database Import
 
 <+> Get the SQL files from `/project/Databse/` 
 
@@ -12,9 +10,18 @@ Assigniment for a Intership opportunity.
 
 <+> The Tables have a predefined Schema named `techwondoe`.
 
-<+> There should be 2 tables one for the `reviews content` and other for jwt and auth named `users` 
+<+> There should be 2 tables one for the reviews content named `reviews`  and other for jwt and auth named `users` 
 
 <+> Set the Schema to Default Scehma
 
+## Deploy and Run the Service
+
+#### You can Deploy the Service localy manully using `.env` Enviromnetal variables
+
+###OR
+
+You can use the Docker Configurations and make an image and container of the Service on your respective Docker Hub/ Docker Destop App
+
+### React
 
 
