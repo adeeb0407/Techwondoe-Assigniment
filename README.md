@@ -44,7 +44,7 @@ SECRET = TRa4sdYR21ES
 
 #### OR
 
-<+> Run the Command `npm run build` for the Application to compile a javascript version of the Application (The Production enviorment) and after Run `npm start` for the Application to start running [note : we must copy the `.env` file into the built folder situated at `/project/server/build`]
+<+> Run the Command `npm run build` for the Application to compile a javascript version of the Application (The Production enviorment) and after Run `npm start` for the Application to start running [note : we must copy the `.env` file into the built folder afther the build is done situated at `/project/server/build`]
 
 ### OR
 
