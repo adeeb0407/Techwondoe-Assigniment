@@ -26,7 +26,7 @@ Assigniment for a Intership opportunity.
 
 ![env](https://user-images.githubusercontent.com/84328880/185962545-4be96c8b-afee-4874-aa00-0f541802a8b6.PNG)
 
-<+> The Content fpr the `.env` file will be
+<+> The Content for the `.env` file will be
 
 ```
 # Msql-DB
@@ -40,6 +40,11 @@ DATABASE = techwondo
 # jwt
 SECRET = TRa4sdYR21ES
 ```
+<+> Run the Command `npm run dev` for the Application to run in typescript and use nodemon (The Development enviorment)
+
+#### OR
+
+<+> Run the Command `npm run build` for the Application to compile a javascript version of the Application (The Production enviorment) and after Run `npm start` for the Application to start running [note : we must copy the `.env` file into the built folder situated at `/project/server/build`]
 
 ### OR
 
