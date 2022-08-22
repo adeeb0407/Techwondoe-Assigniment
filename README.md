@@ -77,12 +77,13 @@ SECRET = TRa4sdYR21ES
     - [x] Review - User should be ad add review of that show 
     -  ![update](https://user-images.githubusercontent.com/84328880/185971238-8780af77-ac09-46aa-be13-a730085cb86c.png)
 - [x] Users should be able to add or delete a show from the list.
-- - ![delete review](https://user-images.githubusercontent.com/84328880/185971517-b1d05527-a46e-403e-9d5f-4a3e91059a44.png)
+    - ![edit](https://user-images.githubusercontent.com/84328880/185971904-1d3eb1a2-1211-4a2d-92bd-4b4ae394e1bc.PNG)
+    - ![delete review](https://user-images.githubusercontent.com/84328880/185971517-b1d05527-a46e-403e-9d5f-4a3e91059a44.png)
 
 - [x] Users can update any of the TV series related data ( eg: streaming app, rating, review)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+    -  ![update](https://user-images.githubusercontent.com/84328880/185972155-3cd95948-2101-4233-b644-24f28703dcdf.png)
+- [x] APIs should validate a JWT token before allowing access to the caller.
+
+### Non-Functional Components
+- [x] Prettier and Linter configuration
+- [x] Dockerise the application
