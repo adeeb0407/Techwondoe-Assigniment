@@ -10,7 +10,7 @@ Assigniment for a Intership opportunity.
 
 - The Tables have a predefined Schema named `techwondo`.
 
-- There should be 2 tables one for the reviews content named `reviews`  and other for jwt and auth named `users` 
+- There should be 2 tables, one for the reviews content named `reviews`  and other for jwt and auth named `users` 
 
 - Set the Schema to Default Scehma
 
