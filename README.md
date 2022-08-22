@@ -88,3 +88,5 @@ SECRET = TRa4sdYR21ES
 ### Non-Functional Components
 - [x] Prettier and Linter configuration
 - [x] Dockerise the application
+
+### Note:  The Application is 100% responsive for Tablet and Mobile
