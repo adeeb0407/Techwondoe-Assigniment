@@ -70,8 +70,11 @@ SECRET = TRa4sdYR21ES
 # Improvements that can be made to make this application production ready. 
 
    - Proper Testing of the Application.
-        - - Unit Testing
-        - - Stress Testing
+        - Unit Testing
+        - Stress Testing
+   - Evaluate the Stability of the Application
+   - Evaluate the Scalablility of the Application
+   - Evaluate the Speed of the Application
 
 # Check List
 
