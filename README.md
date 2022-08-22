@@ -24,7 +24,7 @@ Assigniment for a Intership opportunity.
 
 <+> Run the commnad `npm install` to get all the required dependency in order for the application to run. 
 
-<+> Here create a file named `.env` in the root server folder
+<+> Here create a file named `.env` in the root server folder (`/project/server`)
 
 ![env](https://user-images.githubusercontent.com/84328880/185962545-4be96c8b-afee-4874-aa00-0f541802a8b6.PNG)
 
@@ -47,6 +47,9 @@ SECRET = TRa4sdYR21ES
 #### OR
 
 <+> Run the Command `npm run build` for the Application to compile a javascript version of the Application (The Production enviorment) and after Run `npm start` for the Application to start running [note : we must copy the `.env` file into the built folder afther the build is done situated at `/project/server/build`]
+
+![built env](https://user-images.githubusercontent.com/84328880/185965580-3a96b4c3-0c85-40f2-92c3-caaa9837e320.PNG)
+
 
 ### OR
 
