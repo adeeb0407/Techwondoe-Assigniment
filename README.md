@@ -75,7 +75,8 @@ SECRET = TRa4sdYR21ES
     - [x] Streaming App - Streaming Platform where the user has watched the show (example - Netflix)
     - [x] Rating - Users should be able to start rate the show
     - [x] Review - User should be ad add review of that show 
-    -  ![update](https://user-images.githubusercontent.com/84328880/185971238-8780af77-ac09-46aa-be13-a730085cb86c.png)
+    -  ![upload](https://user-images.githubusercontent.com/84328880/185972747-f607fff2-df66-49a7-abbe-883d13914734.png)
+
 - [x] Users should be able to add or delete a show from the list.
     - ![edit](https://user-images.githubusercontent.com/84328880/185971904-1d3eb1a2-1211-4a2d-92bd-4b4ae394e1bc.PNG)
     - ![delete review](https://user-images.githubusercontent.com/84328880/185971517-b1d05527-a46e-403e-9d5f-4a3e91059a44.png)
