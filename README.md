@@ -4,7 +4,7 @@ Assigniment for a Intership opportunity.
 
 ## Database Import
 
-<+> Get the SQL files from `/project/Databse/` 
+- Get the SQL files from `/project/Databse/` 
 
 <+> Import into your MySQL Workbench or whichever Framwork You are using (Exported from MYSQL Workbench)
 
