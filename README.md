@@ -76,8 +76,10 @@ SECRET = TRa4sdYR21ES
     - [x] Rating - Users should be able to start rate the show
     - [x] Review - User should be ad add review of that show 
     -  ![update](https://user-images.githubusercontent.com/84328880/185971238-8780af77-ac09-46aa-be13-a730085cb86c.png)
-- [x] Venus
-- [x] Earth (Orbit/Moon)
+- [x] Users should be able to add or delete a show from the list.
+- - ![delete review](https://user-images.githubusercontent.com/84328880/185971517-b1d05527-a46e-403e-9d5f-4a3e91059a44.png)
+
+- [x] Users can update any of the TV series related data ( eg: streaming app, rating, review)
 - [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
