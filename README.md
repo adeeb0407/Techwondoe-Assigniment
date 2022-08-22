@@ -20,7 +20,9 @@ Assigniment for a Intership opportunity.
 
 #### You can Deploy the Service localy manully using `.env` Enviromnetal variables (RECOMMENDED)
 
-<+> Search for the Directory `/project/server` Where the Backend Server Application is situated
+<+> Locate to the Directory `/project/server` Where the Backend Server Application is situated
+
+<+> Run the commnad `npm install` to get all the required dependency in order for the application to run. 
 
 <+> Here create a file named `.env` in the root server folder
 
@@ -51,5 +53,11 @@ SECRET = TRa4sdYR21ES
 #### You can use the Docker Configurations and make an image and container of the Service on your respective Docker Hub/ Docker Destop App
 
 ### React
+
+<+> Locate to the Directory `/project/client` Where the Frontend Client Application is situated
+
+<+> Run the commnad `npm install` to get all the required dependency in order for the application to run.
+
+<+> Run the Command `npm start` to Start the React Application 
 
 
