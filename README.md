@@ -74,7 +74,8 @@ SECRET = TRa4sdYR21ES
     - [x] Title - Name of the Show
     - [x] Streaming App - Streaming Platform where the user has watched the show (example - Netflix)
     - [x] Rating - Users should be able to start rate the show
-    - [x] Review - User should be ad add review of that show  
+    - [x] Review - User should be ad add review of that show 
+    -  ![update](https://user-images.githubusercontent.com/84328880/185971238-8780af77-ac09-46aa-be13-a730085cb86c.png)
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
