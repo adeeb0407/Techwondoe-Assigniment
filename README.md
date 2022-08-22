@@ -43,6 +43,9 @@ DATABASE = techwondo
 SECRET = TRa4sdYR21ES
 ```
 - Run the Command `npm run dev` for the Application to run in typescript and use nodemon (The Development enviorment)
+- This is what the Output should look like.
+![nodeOutput](https://user-images.githubusercontent.com/84328880/185966791-69bd1928-177b-4f5f-8e73-8aaca3f1a9d1.PNG)
+
 
 #### OR
 
