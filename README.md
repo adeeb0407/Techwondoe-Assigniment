@@ -1,6 +1,6 @@
 # Techwondoe Assigniment
 
-Assigniment for a Intership opportunity.
+This is a Anime Review Posting Apllication, Where users can view, create, edit amd delete review of any Anime they have watched, Here users can view others reviews on the Anime and check the rating and review Description they have given to the Anime after watching it.
 
 ## Database Import
 
