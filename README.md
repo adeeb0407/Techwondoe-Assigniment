@@ -1,7 +1,5 @@
 # Techwondoe Assigniment
 
-## 
-Install nodejs version 16
-`docker build . -t adeeb0407/techwondoe-server-files`
+##Deploy and Run the Service
+###Database Import
 
-` docker-compose up`
