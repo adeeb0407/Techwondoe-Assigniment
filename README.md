@@ -30,13 +30,13 @@ Assigniment for a Intership opportunity.
 
 ```
 PORT = 8001
-HOST = localhost
+HOST = {YOUR_MSQL_HOST_DB} - (localhost for local enviorment)
 DB_PORT = 3306
-USER = root
-PASSWORD = root
+USER = {YOUR_MYSQL_USERNAME}
+PASSWORD = {YOUR_MYSQL_PASSWORD}
 DATABASE = techwondo
-CLIENT_ORIGIN=http://127.0.0.1:3306
 
+//JWT
 SECRET = TRa4sdYR21ES
 ```
 
