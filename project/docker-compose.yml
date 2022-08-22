@@ -1,0 +1,52 @@
+version: "3.4"
+
+x-common-variables: &common-variables
+  USER: root
+  MYSQL_ROOT_PASSWORD: root
+  DATABASE: techwondo
+  REACT_APP_SERVER_PORT: 3000
+
+services:
+  mysql-db:
+    image: mysql:5.7
+    container_name: mysql_container
+    environment:
+      <<: *common-variables
+      HOST: localhost
+      PASSWORD: root
+    ports:
+      - 3307:3306
+    restart: unless-stopped
+  nginx:
+    depends_on:
+      - api
+      - client
+    restart: always
+    build:
+      dockerfile: Dockerfile
+      context: ./nginx
+    ports:
+      - "3050:80"
+  api:
+    build:
+      dockerfile: Dockerfile
+      context: "./server"
+    volumes:
+      - /app/node_modules
+      - ./server:/app
+    environment:
+      - USER=root
+      - HOST=localhost
+      - DATABASE=techwondo
+      - PASSWORD=root
+      - DB_PORT=3306
+  client:
+    stdin_open: true
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    build:
+      dockerfile: Dockerfile
+      context: ./client
+    volumes:
+      - /app/node_modules
+      - ./client:/app
