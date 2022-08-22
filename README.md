@@ -8,7 +8,7 @@ Assigniment for a Intership opportunity.
 
 - Import into your MySQL Workbench or whichever Framwork You are using (Exported from MYSQL Workbench)
 
-- The Tables have a predefined Schema named `techwondoe`.
+- The Tables have a predefined Schema named `techwondo`.
 
 - There should be 2 tables one for the reviews content named `reviews`  and other for jwt and auth named `users` 
 
