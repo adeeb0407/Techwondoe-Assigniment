@@ -60,7 +60,7 @@ function View(props: ViewStruct) {
            <Divider orientation="left">Ratings</Divider>
            <List size="large">
         <List.Item>
-          <Typography.Text><Rate  allowHalf disabled defaultValue={dataItem?.rating}/></Typography.Text>
+          <Typography.Text><Rate  allowHalf disabled value={dataItem?.rating}/></Typography.Text>
         </List.Item>
         </List>
            <Divider orientation="left">Streaming Platforms</Divider>
