@@ -1,0 +1,42 @@
+.image_main img{
+        display: block;
+        max-width:650px;
+        max-height:650px;
+        width: auto;
+        height: auto;
+    border-radius: 0 10% 0 10%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.view_main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+}
+.review_content{
+    margin: 20px;
+    width: 100%;
+
+}
+.main_list_view{
+    border: 1px solid grey;
+    background-color: azure;
+    padding: 80px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 600px) {
+    .image_main img{ 
+        max-width:400px;
+        max-height:400px;
+    }
+    .main_list_view{
+        padding: 5px;
+        margin: 5px;
+        margin-bottom: 15px;
+    }
+    .view_main{
+        font-size: 5px;
+    }
+  }

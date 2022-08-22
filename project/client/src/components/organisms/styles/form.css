@@ -1,0 +1,22 @@
+.input_field{
+    display: flex;
+    padding: 20px;
+}
+
+.input_field label {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+form button{
+    margin: 20px 0 0 60px;
+}
+.ratings_field{
+    background-color: #D5D7D7;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
