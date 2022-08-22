@@ -67,6 +67,11 @@ SECRET = TRa4sdYR21ES
 
 - Run the Command `npm start` to Start the React Application 
 
+# Improvements that can be made to make this application production ready. 
+
+    - Proper Unit testing to find Bugs
+    - 
+
 # Check List
 
 ### Functional Components
