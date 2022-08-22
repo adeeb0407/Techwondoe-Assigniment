@@ -1,6 +1,6 @@
 # Techwondoe Assigniment
 
-This is a Anime Review Posting Application, Where users can view, create, edit amd delete review of any Anime they have watched, Here users can view others reviews on the Anime and check the rating and review Description they have given to the Anime after watching it.
+This is a Anime Review Posting Application, Where users can view, create, edit amd delete review of any Anime they have watched, Here users can view others reviews on the Anime and check the rating, Streaming Apps, review Description they have given to the Anime after watching it.
 
 ## Database Import
 
