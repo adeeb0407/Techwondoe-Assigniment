@@ -26,7 +26,9 @@ Assigniment for a Intership opportunity.
 
 ![env](https://user-images.githubusercontent.com/84328880/185962545-4be96c8b-afee-4874-aa00-0f541802a8b6.PNG)
 
-<+> The Content fpr the `.env` file will be `
+<+> The Content fpr the `.env` file will be
+
+```
 PORT = 8001
 HOST = localhost
 DB_PORT = 3306
@@ -36,7 +38,7 @@ DATABASE = techwondo
 CLIENT_ORIGIN=http://127.0.0.1:3306
 
 SECRET = TRa4sdYR21ES
-`
+```
 
 ### OR
 
