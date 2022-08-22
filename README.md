@@ -16,11 +16,15 @@ Assigniment for a Intership opportunity.
 
 ## Deploy and Run the Service
 
+## Server
+
 #### You can Deploy the Service localy manully using `.env` Enviromnetal variables (RECOMMENDED)
+
+
 
 ### OR
 
-You can use the Docker Configurations and make an image and container of the Service on your respective Docker Hub/ Docker Destop App
+#### You can use the Docker Configurations and make an image and container of the Service on your respective Docker Hub/ Docker Destop App
 
 ### React
 
