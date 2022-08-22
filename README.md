@@ -16,9 +16,9 @@ Assigniment for a Intership opportunity.
 
 ## Deploy and Run the Service
 
-#### You can Deploy the Service localy manully using `.env` Enviromnetal variables
+#### You can Deploy the Service localy manully using `.env` Enviromnetal variables (RECOMMENDED)
 
-###OR
+### OR
 
 You can use the Docker Configurations and make an image and container of the Service on your respective Docker Hub/ Docker Destop App
 
