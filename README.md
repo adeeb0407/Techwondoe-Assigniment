@@ -67,4 +67,16 @@ SECRET = TRa4sdYR21ES
 
 - Run the Command `npm start` to Start the React Application 
 
+## Check List
 
+### Functional Components
+- [x] User can add title to the list with the following information - 
+    - [x] Title 
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
