@@ -71,7 +71,10 @@ SECRET = TRa4sdYR21ES
 
 ### Functional Components
 - [x] User can add title to the list with the following information - 
-    - [x] Title 
+    - [x] Title - Name of the Show
+    - [x] Streaming App - Streaming Platform where the user has watched the show (example - Netflix)
+    - [x] Rating - Users should be able to start rate the show
+    - [x] Review - User should be ad add review of that show  
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
