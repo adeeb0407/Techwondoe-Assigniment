@@ -29,7 +29,7 @@ Assigniment for a Intership opportunity.
 
 ![env](https://user-images.githubusercontent.com/84328880/185962545-4be96c8b-afee-4874-aa00-0f541802a8b6.PNG)
 
-<+> The Content for the `.env` file will be
+- The Content for the `.env` file will be
 
 ```
 # Msql-DB
