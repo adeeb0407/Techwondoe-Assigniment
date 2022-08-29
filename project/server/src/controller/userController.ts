@@ -17,6 +17,7 @@ export const getUsers = ((req: Request, res: Response) => {
             }
             res.send(result);
         });
+        db.end()
     
 });
 export const login = ((req: Request, res: Response) => {
@@ -40,6 +41,7 @@ export const login = ((req: Request, res: Response) => {
                             
                         }
                     }
+            db.end()
                 }
                 
             });
