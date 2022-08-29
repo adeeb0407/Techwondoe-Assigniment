@@ -16,7 +16,6 @@ export const getMyReviews = ((req: Request, res: Response) => {
             }
             res.send(result);
         });
-        db.end()
     
 });
 
@@ -30,7 +29,6 @@ export const viewReview = ((req: Request, res: Response) => {
             }
             res.send(result);
         });
-        db.end()
     
 });
 
@@ -44,7 +42,6 @@ export const createReview = ((req: any, res: Response) => {
             }
             res.json(user_id);
         });
-        db.end()
     
 });
 export const deleteReview = ((req: Request, res: Response) => {
@@ -57,7 +54,6 @@ export const deleteReview = ((req: Request, res: Response) => {
             }
             res.send(result);
         });
-        db.end()
     
 });
 export const updateReview = ((req: Request, res: Response) => {
@@ -114,7 +110,6 @@ export const trialUpload = (req: any, res: any) => {
             res.send(result);
             });
             }
-            db.end()
         });
     })
 }
@@ -127,10 +122,7 @@ export const reviewAll = ((req: Request, res: Response) => {
                 console.log(err);
             }
             res.json(result);
-        });
-        db.end()
-
-    
+        });  
 });
 
 export const checkView = ((req: Request, res: Response) => {
@@ -143,7 +135,5 @@ export const checkView = ((req: Request, res: Response) => {
             }
             res.json(result);
         });
-        db.end()
-
     
 });
