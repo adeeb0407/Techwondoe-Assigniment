@@ -1,6 +1,8 @@
 # Techwondoe Assigniment
 
-Assigniment for a Intership opportunity.
+## All the Anime Summary
+
+This is a Anime Review Posting Application, Where users can view, create, edit amd delete review of any Anime they have watched, Here users can view others reviews on the Anime and check the rating, Streaming Apps and review Description they have given to the Anime after watching it.
 
 ## Database Import
 
@@ -8,9 +10,9 @@ Assigniment for a Intership opportunity.
 
 - Import into your MySQL Workbench or whichever Framwork You are using (Exported from MYSQL Workbench)
 
-- The Tables have a predefined Schema named `techwondoe`.
+- The Tables have a predefined Schema named `techwondo`.
 
-- There should be 2 tables one for the reviews content named `reviews`  and other for jwt and auth named `users` 
+- There should be 2 tables, one for the reviews content named `reviews`  and other for jwt and auth named `users` 
 
 - Set the Schema to Default Scehma
 
@@ -29,7 +31,7 @@ Assigniment for a Intership opportunity.
 
 ![env](https://user-images.githubusercontent.com/84328880/185962545-4be96c8b-afee-4874-aa00-0f541802a8b6.PNG)
 
-<+> The Content for the `.env` file will be
+- The Content for the `.env` file will be
 
 ```
 # Msql-DB
@@ -50,7 +52,7 @@ SECRET = TRa4sdYR21ES
 
 #### OR
 
-<+> Run the Command `npm run build` for the Application to compile a javascript version of the Application (The Production enviorment) and after Run `npm start` for the Application to start running [note : we must copy the `.env` file into the built folder afther the build is done situated at `/project/server/build`]
+- Run the Command `npm run build` for the Application to compile a javascript version of the Application (The Production enviorment) and after Run `npm start` for the Application to start running [note : we must copy the `.env` file into the built folder afther the build is done situated at `/project/server/build`]
 
 ![built env](https://user-images.githubusercontent.com/84328880/185965580-3a96b4c3-0c85-40f2-92c3-caaa9837e320.PNG)
 
@@ -67,7 +69,14 @@ SECRET = TRa4sdYR21ES
 
 - Run the Command `npm start` to Start the React Application 
 
-## Check List
+# Improvements that can be made to make this application production ready. 
+
+   - Proper Testing of the Application.
+   - Evaluate the Stability of the Application
+   - Evaluate the Scalablility of the Application
+   - Evaluate the Speed of the Application
+
+# Check List
 
 ### Functional Components
 - [x] User can add title to the list with the following information - 
@@ -76,6 +85,7 @@ SECRET = TRa4sdYR21ES
     - [x] Rating - Users should be able to start rate the show
     - [x] Review - User should be ad add review of that show 
     -  ![upload](https://user-images.githubusercontent.com/84328880/185972747-f607fff2-df66-49a7-abbe-883d13914734.png)
+    -  ![editable view](https://user-images.githubusercontent.com/84328880/185989502-88c4f003-4492-4c34-a864-690062479cf1.png)
 
 - [x] Users should be able to add or delete a show from the list.
     - ![edit](https://user-images.githubusercontent.com/84328880/185971904-1d3eb1a2-1211-4a2d-92bd-4b4ae394e1bc.PNG)
@@ -88,3 +98,5 @@ SECRET = TRa4sdYR21ES
 ### Non-Functional Components
 - [x] Prettier and Linter configuration
 - [x] Dockerise the application
+
+### Note:  The Application is 100% responsive for Tablet and Mobile View
